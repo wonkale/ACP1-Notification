@@ -1,0 +1,39 @@
+Main screen:
+	The main screen is pretty blank containing only 
+	the necessary tools for user to be able to create 
+	and choose the events they want.
+	
+	The plus button creates a new event.
+
+	Application buttons open new windows for specific 
+	applications so the user can control them and change 
+	settings if needed.
+
+	The question mark button opens the help screen
+	
+	? Add a button to turn all notifications off at once if needed ?
+
+Info screen for specific app:
+	This screen should display some useful information about 
+	the specific app which notifications you want to control 
+	and information about the control methods.
+
+	The question mark button opens the help screen
+	
+	? Add the descriptions and infos when decided which ones should be included ?
+
+Settings screen for specific app:
+	This screen should display user some settings to help control 
+	application notifications.
+	
+	The question mark button opens the help screen
+
+Help screen:
+	Should be accessible from everywhere and should 
+	contain some FAQ and contact information in the case 
+	FAQ doesnt answer the question.
+
+Small screens:
+	some useful in-between pop-up windows for the program.
+	The program will use app's name as a default but the user can
+	give it a name if he wants.
