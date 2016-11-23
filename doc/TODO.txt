@@ -1,0 +1,18 @@
+ - user interface what Jaakko proposed
+	- draw widgets to screen
+	- add application menu and connect it to the UI
+	- add help class and connect it to the UI
+
+ - notification delaying
+	1. trivial catch all and delay for x minutes
+	2. connect UI time and on/off to delayer
+	3. connect the application menu to the delayer, and match notifications to them
+
+ - help content
+	- simple "hello world" like tutorial
+
+ - desktop shortcut buttons
+	- instant delay all on/off
+	- instant relase are queued notifications
+
+
