@@ -1,8 +1,10 @@
 package acp1.rest.dao;
 
 import acp1.rest.Model.AcpModel;
+import acp1.rest.dbutils.ConnectionProvider;
 
 import javax.ws.rs.core.Response;
+import java.sql.Connection;
 import java.util.ArrayList;
 import java.util.Collection;
 
@@ -28,6 +30,8 @@ public class AcpDao {
         ArrayList<AcpModel> arr = new ArrayList<>();
         arr.add(mod1);
         arr.add(mod2);
+
+        Connection con = new ConnectionProvider().getConnection();
 
         return arr;
     }

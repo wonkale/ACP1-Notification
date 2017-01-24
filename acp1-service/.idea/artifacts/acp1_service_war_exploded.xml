@@ -29,6 +29,7 @@
           <element id="library" level="project" name="Maven: org.eclipse.persistence:org.eclipse.persistence.asm:2.6.0" />
           <element id="library" level="project" name="Maven: org.glassfish:javax.json:1.0.4" />
           <element id="library" level="project" name="Maven: org.glassfish.jersey.containers:jersey-container-servlet:2.25.1" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.6" />
           <element id="library" level="project" name="Maven: org.glassfish.jersey.test-framework.providers:jersey-test-framework-provider-inmemory:2.25.1" />
           <element id="library" level="project" name="Maven: org.glassfish.jersey.test-framework:jersey-test-framework-core:2.25.1" />
           <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.0.1" />
@@ -39,6 +40,8 @@
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.5.4" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.5.4" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.5.0" />
+          <element id="library" level="project" name="Maven: com.zaxxer:HikariCP:2.4.3" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.12" />
         </element>
       </element>
       <element id="directory" name="META-INF">
