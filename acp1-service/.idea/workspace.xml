@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f7b29e1-4960-4ca5-97b4-833f114ac007" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/acp1-service.war" afterPath="$PROJECT_DIR$/target/acp1-service.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/acp1-service/WEB-INF/classes/acp1/rest/config/AcpConfig.class" afterPath="$PROJECT_DIR$/target/acp1-service/WEB-INF/classes/acp1/rest/config/AcpConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/acp1/rest/config/AcpConfig.class" afterPath="$PROJECT_DIR$/target/classes/acp1/rest/config/AcpConfig.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/acp1/rest/config/AcpConfig.java" afterPath="$PROJECT_DIR$/src/acp1/rest/config/AcpConfig.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -118,6 +114,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Mohammed Al-Ani &lt;mohammedalanny@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
@@ -928,8 +929,16 @@
       <workItem from="1485103220402" duration="3470000" />
       <workItem from="1485197857758" duration="8113000" />
       <workItem from="1485288274358" duration="3781000" />
-      <workItem from="1485369347527" duration="3489000" />
+      <workItem from="1485369347527" duration="3627000" />
     </task>
+    <task id="LOCAL-00001" summary="make simple pre filter for the request and response. the idea from that to use a token based authentication.">
+      <created>1485377856692</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1485377856692</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -965,7 +974,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18853000" />
+    <option name="totallyTimeSpent" value="18991000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1691" height="1017" extended-state="0" />
@@ -1029,6 +1038,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="make simple pre filter for the request and response. the idea from that to use a token based authentication." />
+    <option name="LAST_COMMIT_MESSAGE" value="make simple pre filter for the request and response. the idea from that to use a token based authentication." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
